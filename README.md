@@ -34,8 +34,8 @@ and its permissions boundaries.
 
 
 ### Features
-Access Advisor Permission Boundary automation script has benn created to help AWS customers achieve least privileged access as well
-as remove access form users and roles that have not been used within configurable expiration period. 
+Access Advisor Permission Boundary automation script has been created to help AWS customers achieve least privileged access as well
+as remove access from users and roles that have not been used within configurable expiration period. 
 The script provide two main functions: First it regularly review data from 
 AWS Access Advisor and provide ability to audit IAM roles, users and groups based on their previous access to services 
 as reported by AWS [Access Advisor](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-view-data.html).  
